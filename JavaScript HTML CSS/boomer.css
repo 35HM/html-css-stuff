@@ -1,0 +1,73 @@
+.intro{
+    color: white;
+    font-family: "Press start 2p", sans-serif;
+    text-align: center;
+    margin: 150px;
+    font-size: 400%;
+}
+#bgimg{
+    background-image: url(kunpheab.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#hahaa{
+    color: #ffffff;
+    background-color: #ffb666;
+    font-size: 300%;
+    padding: 25px;
+    border-radius: 7px;
+    border-color: white;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 300px;
+    transition: color 1s linear;
+    border: 0px;
+    width: 270px;
+}
+#hahaa:hover {
+    transform: scale(1.05);
+    background-color:white;
+    color: #ffb666;
+}
+#hahaa{
+    transition: all 0.1s;
+}
+.emsrem{
+    text-decoration: none;
+}
+.backg{
+    background-image: url(mcpic.png);
+}
+#hahaaa{
+    color: #ffffff;
+    background-color: #ffb666;
+    font-size: 300%;
+    padding: 25px;
+    border-radius: 7px;
+    border-color: white;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 300px;
+    transition: color 1s linear;
+    border: 0px;
+    position: relative;
+    bottom: 270px;
+    width: 270px;
+}
+#hahaaa:hover {
+    transform: scale(1.05);
+    background-color:white;
+    color: #ffb666;
+}
+#hahaaa{
+    transition: all 0.1s;
+}
+.emsrem2{
+    text-decoration: none;
+}
